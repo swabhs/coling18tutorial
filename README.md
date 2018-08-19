@@ -1,6 +1,6 @@
 # COLING 2018 Tutorial on Multilingual FrameNet: Automatic semantic role labeling for FrameNet
 
-A [tutorial](https://framenet.icsi.berkeley.edu/fndrupal/node/5552/) at [COLING 2018](https://coling2018.org/) taught by Collin Baker, Michael J. Ellsworth, Miriam R. L. Petruck and Swabha Swayamdipta. This repository contains slides for automatic semantic role labeling for FrameNet.
+A [tutorial](https://framenet.icsi.berkeley.edu/fndrupal/node/5552/) at [COLING 2018](https://coling2018.org/) taught by Collin Baker, Michael J. Ellsworth, Miriam R. L. Petruck and Swabha Swayamdipta. This repository contains [slides for automatic semantic role labeling for FrameNet](https://github.com/Noahs-ARK/coling18tutorial/blob/master/Slides-Swabha.pdf).
 
 ## Abstract
 
@@ -20,6 +20,11 @@ Participants in this tutorial will learn about:
 3. Principles of multilingual alignment and the challenges involved
 4. Issues of Representation in frame vs. constructional analyses
 5. Potential Applications of a multilingual FrameNet database
+
+## Slides
+
+*Automatic SRL for FrameNet* Slides can be found [here](https://github.com/Noahs-ARK/coling18tutorial/blob/master/Slides-Swabha.pdf)
+*Full tutorial* An earlier draft of the full tutorial slides are [here](https://framenet2.icsi.berkeley.edu/docs/allslides.pdf)
 
 ## References
 * (Ruppenhofer et al. 2016)
