@@ -23,10 +23,11 @@ Participants in this tutorial will learn about:
 
 ## Slides
 
-*Automatic SRL for FrameNet* Slides can be found [here](https://github.com/Noahs-ARK/coling18tutorial/blob/master/Slides-Swabha.pdf)
-*Full tutorial* An earlier draft of the full tutorial slides are [here](https://framenet2.icsi.berkeley.edu/docs/allslides.pdf)
+**Automatic SRL for FrameNet** Slides can be found [here](https://github.com/Noahs-ARK/coling18tutorial/blob/master/Slides-Swabha.pdf).
+
+**Full tutorial** An earlier draft of the full tutorial slides are [here](https://framenet2.icsi.berkeley.edu/docs/allslides.pdf).
+
 
 ## References
-* (Ruppenhofer et al. 2016)
-* (Baker et al. 2003)
-* (Fillmore 1988, 2013)
+
+TBD
