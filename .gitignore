@@ -11,6 +11,10 @@
 *.cb
 *.cb2
 .*.lb
+*.tex
+*.sty
+*.bst
+bibliography/citations.pdf
 
 ## Intermediate documents:
 *.dvi
