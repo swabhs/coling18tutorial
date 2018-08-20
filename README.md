@@ -42,11 +42,10 @@ Most of the automatic SRL efforts have focused on English, however. The challeng
 * Dipanjan Das, André F. T. Martins, and Noah A. Smith. An exact dual decomposition algorithm for shallow semantic parsing with constraints. In Proc. of \*SEM, 2012. URL http://dl.acm.org/citation.cfm?id=2387636.2387671.
 * Dipanjan Das, Desai Chen, André FT Martins, Nathan Schneider, and Noah A Smith. Frame- semantic parsing. Computational linguistics, 40(1):9–56, 2014.
 * David Dowty. Thematic proto-roles and argument selection. language, 67(3):547–619, 1991.
-* Nicholas FitzGerald, Oscar Ta ̈ckstro ̈m, Kuzman Ganchev, and Dipanjan Das. Semantic role labeling
-with neural network factors. In Proc. of EMNLP, 2015.
-* Nicholas FitzGerald, Julian Michael, Luheng He, and Luke Zettlemoyer. Large-scale qa-srl parsing. In Proc. of ACL, 2018.
-* Hagen Fürstenau and Mirella Lapata. Semi-supervised semantic role labeling via structural align- ment. Computational Linguistics, 38(1):135–171, 2012.
-* Daniel Gildea and Daniel Jurafsky. Automatic labeling of semantic roles. Computational Linguis- tics, 28(3):245–288, 2002.
+* Nicholas FitzGerald, Oscar Täckström, Kuzman Ganchev, and Dipanjan Das. Semantic role labeling with neural network factors. In Proc. of EMNLP, 2015.
+* Nicholas FitzGerald, Julian Michael, Luheng He, and Luke Zettlemoyer. Large-scale QA-SRL parsing. In Proc. of ACL, 2018.
+* Hagen Fürstenau and Mirella Lapata. Semi-supervised semantic role labeling via structural alignment. Computational Linguistics, 38(1):135–171, 2012.
+* Daniel Gildea and Daniel Jurafsky. Automatic labeling of semantic roles. Computational Linguistics, 28(3):245–288, 2002.
 * Jesús Giménez and Llúıs Màrquez. Linguistic features for automatic evaluation of heterogenous mt systems. In Proc. of Workshop on SMT, pp. 256–264. Association for Computational Linguistics, 2007.
 * Jan Hajič, Massimiliano Ciaramita, Richard Johansson, Daisuke Kawahara, Maria Antònia Martí, Llúıs Màrquez, Adam Meyers, Joakim Nivre, Sebastian Padó, Jan Štêpánek, Pavel Strañák, Mihai Surdeanu, Nianwen Xue, and Yi Zhang. The CoNLL-2009 shared task: Syntactic and semantic dependencies in multiple languages. In Proc. of CoNLL, 2009.
 * Silvana Hartmann, Ilia Kuznetsov, Teresa Martin, and Iryna Gurevych. Out-of-domain framenet semantic role labeling. In Proc. of EACL, 2017.
@@ -75,12 +74,12 @@ Proc. of CIKM, pp. 253–262. ACM, 2008.
 * Martha Palmer, Daniel Gildea, and Paul Kingsbury. The Proposition Bank: An annotated corpus of semantic roles. Computational Linguistics, 31(1):71–106, 2005.
 * Ellie Pavlick, Travis Wolfe, Pushpendre Rastogi, Chris Callison-Burch, Mark Dredze, and Benjamin Van Durme. Framenet+: Fast paraphrastic tripling of framenet. In Proc. of ACL, volume 2, pp. 408–413, 2015.
 * Hao Peng, Sam Thomson, Swabha Swayamdipta, and Noah A. Smith. Learning joint semantic parsers from disjoint data, 2018. URL https://arxiv.org/abs/1804.05990. arXiv:1804.05990.
-* Pushpendre Rastogi and Benjamin Van Durme. Augmenting framenet via ppdb. In Proc. of Workshop on EVENTS, 2014.
+* Pushpendre Rastogi and Benjamin Van Durme. Augmenting framenet via PPDB. In Proc. of Workshop on EVENTS, 2014.
 * Drew Reisinger, Rachel Rudinger, Francis Ferraro, Craig Harman, Kyle Rawlins, and Benjamin Van Durme. Semantic proto-roles. Transactions of the Association for Computational Linguistics, 3:475–488, 2015.
 * Michael Roth and Mirella Lapata. Neural semantic role labeling with dependency path embeddings, 2016. arXiv:1605.07515.
 * Dan Shen and Mirella Lapata. Using semantic roles to improve question answering. In Proc. of EMNLP-CoNLL, 2007.
 * Anders Søgaard, Barbara Plank, and Hector Martinez Alonso. Using frame semantics for knowledge extraction from twitter. In Proc. of AAAI, 2015.
-* Emma Strubell, Patrick Verga, Daniel Andor, David Weiss, and Andrew McCallum. Linguistically- informed self-attention for semantic role labeling, 2018. URL http://arxiv.org/abs/1804.08199. arXiv:1804.08199.
+* Emma Strubell, Patrick Verga, Daniel Andor, David Weiss, and Andrew McCallum. Linguistically-informed self-attention for semantic role labeling, 2018. URL http://arxiv.org/abs/1804.08199. arXiv:1804.08199.
 * Mihai Surdeanu, Sanda Harabagiu, John Williams, and Paul Aarseth. Using predicate-argument structures for information extraction. In Proc. of ACL, 2003. doi: 10.3115/1075096.1075098. URL https://doi.org/10.3115/1075096.1075098.
 * Mihai Surdeanu, Richard Johansson, Adam Meyers, Llúıs Màrquez, and Joakim Nivre. The CoNLL-2008 shared task on joint parsing of syntactic and semantic dependencies. In Proc. of CoNLL, 2008.
 * Swabha Swayamdipta, Miguel Ballesteros, Chris Dyer, and Noah A. Smith. Greedy, joint syntactic-semantic parsing with Stack LSTMs. In Proc. of CoNLL, 2016.
