@@ -31,6 +31,8 @@ Most of the automatic SRL efforts have focused on English, however. The challeng
 ## References
 
 * Apoorv Agarwal, Sriramkumar Balasubramanian, Anup Kotalwar, Jiehan Zheng, and Owen Rambow. Frame semantic tree kernels for social network extraction from text. In Proc. of EACL, 2014.
+* Alan Akbik and Yunyao Li. Polyglot: Multilingual semantic role labeling with unified labels. Pro- ceedings of ACL-2016 System Demonstrations, pp. 1–6, 2016.
+* Alan Akbik, Marina Danilevsky, Yunyao Li, Shivakumar Vaithyanathan, Huaiyu Zhu, et al. Gen- erating high quality proposition banks for multilingual semantic role labeling. In Proc. of ACL, 2015.
 * Waleed Ammar, George Mulcaire, Yulia Tsvetkov, Guillaume Lample, Chris Dyer, and Noah A Smith. Massively multilingual word embeddings, 2016. arXiv:1602.01925.
 * Collin Baker, Michael Ellsworth, and Katrin Erk. SemEval’07 Task 19: Frame semantic structure extraction. In Proc. of SemEval, 2007.
 * Laura Banarescu, Claire Bonial, Shu Cai, Madalina Georgescu, Kira Griffitt, Ulf Hermjakob, Kevin Knight, Philipp Koehn, Martha Palmer, and Nathan Schneider. Abstract meaning representation for sembanking. In Proc. of Linguistic Annotation Workshop and Interoperability with Discourse, 2013.
@@ -39,6 +41,7 @@ Most of the automatic SRL efforts have focused on English, however. The challeng
 * Yun-Nung Chen, William Yang Wang, and Alexander I Rudnicky. Unsupervised induction and filling of semantic slots for spoken dialogue systems using frame-semantic parsing. In Proc. of ASRU-IEEE, 2013.
 * Bob Coyne, Alex Klapheke, Masoud Rouhizadeh, Richard Sproat, and Daniel Bauer. Annotation tools and knowledge representation for a text-to-scene system. In Proc. of COLING, 2012.
 * Teresa Botschen, Iryna Gurevych, Jan-Christoph Klie, Hatem Mousselly Sergieh, and Stefan Roth. Multimodal frame identification with multilingual evaluation. In Proc. of ACL, 2018.
+* Danilo Croce, Cristina Giannone, Paolo Annesi, and Roberto Basili. Towards open-domain semantic role labeling. In Proc. of ACL, pp. 237–246. Association for Computational Linguistics, 2010.
 * Dipanjan Das, André F. T. Martins, and Noah A. Smith. An exact dual decomposition algorithm for shallow semantic parsing with constraints. In Proc. of \*SEM, 2012. URL http://dl.acm.org/citation.cfm?id=2387636.2387671.
 * Dipanjan Das, Desai Chen, André FT Martins, Nathan Schneider, and Noah A Smith. Frame- semantic parsing. Computational linguistics, 40(1):9–56, 2014.
 * David Dowty. Thematic proto-roles and argument selection. language, 67(3):547–619, 1991.
@@ -70,7 +73,9 @@ Proc. of CIKM, pp. 253–262. ACM, 2008.
 * Alessandro Moschitti, Silvia Quarteroni, Roberto Basili, and Suresh Manandhar. Exploiting syntactic and shallow semantic kernels for question answer classification. In Proc. of ACL, pp. 776–783, 2007.
 * Phoebe Mulcaire, Swabha Swayamdipta, and Noah Smith. Polyglot semantic role labeling. In Proc. of ACL, 2018.
 * Srini Narayanan and Sanda Harabagiu. Question answering based on semantic structures. In Proc. of ICCL, pp. 693. Association for Computational Linguistics, 2004.
+* Stephan Oepen, Marco Kuhlmann, Yusuke Miyao, Daniel Zeman, Dan Flickinger, Jan Hajič, Angelina Ivanova, and Yi Zhang. Semeval 2014 task 8: Broad-coverage semantic dependency pars- ing. In Proc. of SemEval, 2014.
 * Sebastian Padó and Mirella Lapata. Cross-lingual annotation projection for semantic roles. Journal of Artificial Intelligence Research, 36:307–340, 2009.
+* Alexis Palmer and Caroline Sporleder. Evaluating framenet-style semantic parsing: the role of coverage gaps in framenet. In Proc. of COLING, 2010.
 * Martha Palmer, Daniel Gildea, and Paul Kingsbury. The Proposition Bank: An annotated corpus of semantic roles. Computational Linguistics, 31(1):71–106, 2005.
 * Ellie Pavlick, Travis Wolfe, Pushpendre Rastogi, Chris Callison-Burch, Mark Dredze, and Benjamin Van Durme. Framenet+: Fast paraphrastic tripling of framenet. In Proc. of ACL, volume 2, pp. 408–413, 2015.
 * Hao Peng, Sam Thomson, Swabha Swayamdipta, and Noah A. Smith. Learning joint semantic parsers from disjoint data, 2018. URL https://arxiv.org/abs/1804.05990. arXiv:1804.05990.
