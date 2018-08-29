@@ -6,7 +6,8 @@ This repository contains the materials to be taught in the **Automatic Semantic 
 
 [**Automatic SRL for FrameNet**](https://github.com/Noahs-ARK/coling18tutorial/blob/master/Slides-Swabha.pdf).
 
-[**Full tutorial Slides (early draft)**](https://framenet2.icsi.berkeley.edu/docs/allslides.pdf).
+<!--[**Full tutorial Slides (early draft)**](https://framenet2.icsi.berkeley.edu/docs/allslides.pdf).-->
+[**Full Tutorial Slides**](https://framenet2.icsi.berkeley.edu/docs/allslides2.pdf)
 
 ## Abstract
 
